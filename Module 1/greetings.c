@@ -5,4 +5,6 @@ int main()
     printf("If i wanna print \\ 2 for 1 slash and also %% for 1 percentage symbol. Here is a commentout also- \n");
     // Hey wassapp
     return 0;
+
 }
+//So there is also other variables and datatype.
