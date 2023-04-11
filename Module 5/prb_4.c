@@ -6,18 +6,18 @@
 int main()
 {
     
-    int x;
-    scanf("%d",&x);
-    int digit=x/1000;
-    if(digit%2==0)
-    {
-        printf("EVEN\n");
-    }
-    else 
-    {
-        printf("ODD\n");
-    }
+    int a;
+    scanf("%d", &a);
 
+    int z = a / 1000;
+
+    if (z % 2 == 0){
+        printf("Even");
+    }
+    else
+    {
+        printf("Odd");
+    }
 
     return 0;
 }

@@ -7,18 +7,17 @@ int main()
 {
     
     char a;
-    scanf("%c",&a);
-    if(a>='a' && a<='z')
-    {
-        // choto hater
-        int ans=a-32;
-        printf("%c",ans);
+    scanf("%c", &a);
+    
+    if (a >= 'A' && a <= 'Z'){
+        a += 32;
+        printf("%c", a);
     }
-    else 
-    {
-        int ans=a+32;
-        printf("%c",ans);
+    else {
+        a -= 32;
+        printf("%c", a);
     }
+
 
 
     return 0;
