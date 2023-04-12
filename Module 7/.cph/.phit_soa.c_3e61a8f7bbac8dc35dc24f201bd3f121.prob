@@ -1,0 +1,1 @@
+{"name":"Local: phit_soa","url":"d:\\Phitron Course all\\Code_all\\Module_1\\c-phitron-all\\Module 7\\phit_soa.c","tests":[{"id":1681310673574,"input":"5 \n10 20 30 40 50","output":"150"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron Course all\\Code_all\\Module_1\\c-phitron-all\\Module 7\\phit_soa.c","group":"local","local":true}
