@@ -6,12 +6,14 @@
 
 int main()
 {
+    int n;
+    scanf("%d", &n);
     
-
-
-
-
-
+    for(int i=n; n!=0; i--)
+    {
+        printf("%d ", n%10);
+        n = n/10;
+    }
 
     return 0;
 }
