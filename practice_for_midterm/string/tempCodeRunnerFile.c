@@ -1,0 +1,1 @@
+int sz= sizeof(a)/sizeof(char);

@@ -41,14 +41,12 @@ int main()
         ans[k]=ar[j];
         k++;
     }
-
-
+    
 
     for(int i=0; i<n+x; i++)
     {
         printf("%d ",ans[i]);
     }
-
 
     return 0;
 }
