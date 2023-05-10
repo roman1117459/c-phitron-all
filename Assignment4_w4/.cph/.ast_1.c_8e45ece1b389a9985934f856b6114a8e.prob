@@ -1,0 +1,1 @@
+{"name":"Local: ast_1","url":"d:\\Phitron Course all\\Code_all\\Module_1\\c-phitron-all\\Assignment4_w4\\ast_1.c","tests":[{"id":1683227188358,"input":"3","output":"1\n 123\n12345\n 123\n  1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron Course all\\Code_all\\Module_1\\c-phitron-all\\Assignment4_w4\\ast_1.c","group":"local","local":true}
